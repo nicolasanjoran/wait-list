@@ -1,5 +1,5 @@
 {
-  "name": "wait-list",
+  "name": "@nanjoran/wait-list",
   "version": "1.0.0",
   "description": "Simple wait-list.",
   "main": "lib/waitlist.js",
